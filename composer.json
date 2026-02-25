@@ -1,0 +1,17 @@
+{
+    "name": "verdient/hyperf3-feishu-bot",
+    "type": "library",
+    "require": {
+        "hyperf/contract": "^3.1",
+        "verdient/http": "^2.1",
+        "verdient/hyperf3-feishu": "^2.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "Verdient\\Hyperf3\\FeiShu\\Bot\\": "src"
+        }
+    },
+    "config": {
+        "sort-packages": true
+    }
+}
