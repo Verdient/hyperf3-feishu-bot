@@ -2,9 +2,9 @@
     "name": "verdient/hyperf3-feishu-bot",
     "type": "library",
     "require": {
-        "hyperf/contract": "^3.1",
+        "hyperf/contract": "^3.2",
         "verdient/http": "^2.1",
-        "verdient/hyperf3-feishu": "^2.0"
+        "verdient/hyperf3-feishu": "^2.1"
     },
     "autoload": {
         "psr-4": {
